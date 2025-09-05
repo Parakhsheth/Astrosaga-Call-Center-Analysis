@@ -57,6 +57,6 @@ The **Astrosaga Call Center Analysis Dashboard** demonstrates how Excel can be u
 ## 🤝 Acknowledgments
 Special thanks to **Newton School** for mentorship and guidance throughout this project.
 
-![Astrosaga Dashboard](images/24bdf1ad626e4564bca19a0e794e9223.webp)
+![Astrosaga Dashboard]([images/24bdf1ad626e4564bca19a0e794e9223.webp](https://github.com/Parakhsheth/Astrosaga-Call-Center-Analysis/blob/main/24bdf1ad626e4564bca19a0e794e9223.webp))
 
 
